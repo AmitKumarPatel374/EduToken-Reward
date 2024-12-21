@@ -6,6 +6,8 @@ EduToken Rewards is a blockchain-based incentive system designed to reward educa
 
 ## Contract Address
 0xF849Da44a82132f31e68F927F44B98DF55a05849
+![image](https://github.com/user-attachments/assets/5ce4357e-d099-4a3c-88b2-0513945ff8b1)
+
 
 ## Project Vision
 Our vision is to revolutionize the educational landscape by integrating blockchain technology to foster a culture of learning. By providing tangible incentives in the form of EDU tokens, we aim to:
